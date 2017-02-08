@@ -69,6 +69,7 @@ void ofApp::createPanoImage() {
     image.begin();
     
     ofPushMatrix();
+    //in order for the image to be compliant with the depthmap we need to flip it
     ofTranslate(w, 0, 0);
     ofScale(-1, 1, 0);
     ofClear(255,0,0,255);
