@@ -2,10 +2,9 @@
 
 This is an openFrameworks implementation to demonstrate how to load Google Street View panoramic images.
 
-Read more about this at:
+This code is part of a tutorial on how to create point clouds with Google Street View Data. If you want to find out more check the article [link here] 
 
-
-Pieces of this code are used in a fully working Google Street View point cloud creator.
+You can also check the code for a fully working point cloud creator here:
 
 https://github.com/wearenocomputer/ofxGSVPointCloud
 
